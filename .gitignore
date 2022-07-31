@@ -37,3 +37,9 @@ objs/
 
 # This is a symlink
 Makefile
+
+# CMake build directories
+cmake-build*
+
+# IntelliJ CLion IDE
+.idea/
